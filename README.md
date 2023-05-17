@@ -1,3 +1,3 @@
 # Test task
-Function Returns a string that says how many corners are in the figure,
+In index.php you can find a function that returns a string that says how many corners are in the figure,
 if it's defined in the function.
