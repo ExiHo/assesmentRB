@@ -1,0 +1,17 @@
+{
+  "name": "exiho/assesment",
+  "description": "",
+  "version": "0.0.1",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Ivan Krautsou",
+      "email": "exihomoty@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Lib\\": "Lib/classes/"
+    }
+  }
+}
